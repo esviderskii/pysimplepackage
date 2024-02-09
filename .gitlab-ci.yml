@@ -1,2 +1,0 @@
-before_script:
-  - apk add --update --no-cache git
